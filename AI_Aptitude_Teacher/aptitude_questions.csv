@@ -1,0 +1,11 @@
+id,topic,difficulty,question,option_a,option_b,option_c,option_d,correct_answer,explanation,formula
+1,Percentage,Easy,What is 20% of 150?,20,25,30,35,C,20% of 150 = (20/100)*150 = 30,Percentage Formula
+2,Profit and Loss,Easy,A product bought for 100 and sold for 120 gives?,10% Profit,20% Profit,30% Profit,40% Profit,B,Profit = 120-100 = 20 therefore 20% profit,Profit Formula
+3,Average,Easy,Average of 10 20 and 30?,10,20,30,40,B,(10+20+30)/3 = 20,Average Formula
+4,Ratio,Medium,Ratio of 40 to 60?,1:2,2:3,3:4,4:5,B,40/60 = 2/3,Ratio Formula
+5,Time and Work,Medium,If A completes work in 10 days then one day work?,1/5,1/10,1/15,1/20,B,One day work = 1/10,Work Formula
+6,Simple Interest,Medium,SI on 1000 at 10% for 2 years?,100,150,200,250,C,SI=(P*T*R)/100 = 200,SI Formula
+7,Compound Interest,Hard,CI on 1000 at 10% for 2 years?,200,210,220,230,B,CI=1210-1000=210,CI Formula
+8,Probability,Hard,Probability of getting head in coin toss?,1/4,1/3,1/2,1,C,Favorable/Total = 1/2,Probability Formula
+9,Speed and Distance,Hard,Distance travelled at speed 60 kmph in 2 hours?,100,110,120,130,C,Distance = Speed*Time = 120,Speed Formula
+10,Percentage,Easy,50% of 200?,50,100,150,200,B,(50/100)*200 = 100,Percentage formula
